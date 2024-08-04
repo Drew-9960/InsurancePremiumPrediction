@@ -1,7 +1,3 @@
-
-### Insurance Premium Prediction
-
-
 # Insurance Premium Prediction
 
 ## Project Overview
@@ -15,10 +11,7 @@ The dataset contains information about individuals' age, sex, BMI, number of chi
 - `Insurance_Model_Training.py`: Contains functions for training and evaluating multiple machine learning models while tuning hyperparameters using GridSearchCV.
 - `Insurance_unittest.py`: Contains unit tests for data preprocessing and model training functions.
 
-
-Evaluation and explanation of the results from the machine learning models:
-
-### Model Evaluation Results
+### Evaluation and explanation of the results from the machine learning models:
 
 #### 1. **Random Forest Regressor**
 - **Best Parameters:**
