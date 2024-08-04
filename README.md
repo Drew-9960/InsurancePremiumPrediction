@@ -6,7 +6,8 @@
 
 ## Project Overview
 
-This project involves predicting insurance premiums based on various features using machine learning models. The dataset contains information about individuals' age, sex, BMI, number of children, smoking status, and region, along with their insurance charges.
+This project involves predicting insurance premiums based on various features using machine learning models.
+The dataset contains information about individuals' age, sex, BMI, number of children, smoking status, and region, along with their insurance charges.
 
 ## Files
 
